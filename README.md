@@ -92,19 +92,4 @@ Este sistema es parte de una arquitectura escalable, pensado para ser el **prime
 
 ---
 
-## ✅ Recomendaciones de Uso
 
-- Verifica que tu servidor de base de datos esté activo (XAMPP, WAMP, etc.)
-- Configura `ConexionBD.java` con tu host, usuario y contraseña correctamente
-- Si integras este login a otro sistema, mantén la lógica desacoplada (MVC recomendado)
-
----
-
-## 🚀 Casos de Uso Futuros (Ejemplos)
-
-- Panel de administración para gestionar usuarios
-- Integración con reportes, inventarios, historial de acceso
-- Sistema de control escolar o empresarial completo
-- Control de permisos y niveles de acceso
-
----
